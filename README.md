@@ -1,0 +1,2 @@
+# Registro
+Pasos de registro
